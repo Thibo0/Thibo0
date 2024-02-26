@@ -1,10 +1,3 @@
 - 👋 Hi, I’m @Thibo0
-- 👀 I’m interested in C
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on C
-- 📫 How to reach me C
-
-<!---
-Thibo0/Thibo0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in C, Java, Angular and Haskell
+- 🌱 I’m currently learning C, Java, Angular and Haskell
